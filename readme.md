@@ -1,0 +1,1 @@
+This is a script i can run that sets up my dual commit for github and gitea
