@@ -10,7 +10,7 @@ git init
 git remote add all https://github.com/Notoric/$REPO.git
 git remote set-url --add --push all https://github.com/Notoric/$REPO.git
 git remote set-url --add --push all https://gitea.notoricloud.net/Notoric/$REPO.git
-git add .
+git add README.md
 git branch -M main
 git commit -m "initial commit"
 git push all main
